@@ -1,12 +1,15 @@
 body {
-    background: #DDDDDD;
+    background: #fffcfc;
 }
 
 .navbar {
-    background-color: #800000;
+    background-color: #df7f7f;
     color: white;
 }
 
 .page-container {
     margin-top: 75px;
+
 }
+
+
